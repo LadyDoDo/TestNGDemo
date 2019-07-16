@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My test report." duration-ms="32" started-at="2019-06-10T12:09:32Z" finished-at="2019-06-10T12:09:32Z">
+    <groups>
+    </groups>
+    <test name="D:/Java--file/TestNGDemo" duration-ms="32" started-at="2019-06-10T12:09:32Z" finished-at="2019-06-10T12:09:32Z">
+      <class name="test.testng.demo.script.TestHelloWorldTest">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:test.testng.demo.script.TestHelloWorldTest@41b1f51e]" name="testcase" duration-ms="12" started-at="2019-06-10T20:09:32Z" finished-at="2019-06-10T20:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- test.testng.demo.script.TestHelloWorldTest -->
+    </test> <!-- D:/Java-file/TestNGDemo -->
+  </suite> <!-- My test report. -->
+</testng-results>
