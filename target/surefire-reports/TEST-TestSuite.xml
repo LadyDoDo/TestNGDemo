@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="0.013" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="0.018" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="xmlFileName" value="testng.xml"/>
@@ -30,8 +30,8 @@
     <property name="os.name" value="Windows 7"/>
     <property name="classworlds.conf" value="D:\maven\apache-maven-3.5.0\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Java\jdk1.8.0_171\jre\bin;D:\fo--tool\git\Git\cmd;D:\fo--tool\node.js\nodejs\;D:\Python\venv\Scripts\python.exe;D:\maven\apache-maven-3.5.0\bin;D:\Appium\android-sdk;D:\Appium\android-sdk\tools;D:\Appium\android-sdk\platform-tools;D:\Appium\AppiumForWindows_1_4_16_1\Appium\node_modules\.bin\;D:\Appium\android-sdk\build-tools;C:\Windows/system32;C:\Windows;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\Scripts\chromedriver.exe;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\;D:\fo--tool\VsCode\Microsoft VS Code\bin;C:\Users\fokui\AppData\Roaming\npm;."/>
-    <property name="surefire.test.class.path" value="D:\Java--file\TestNGDemo\target\test-classes;D:\Java--file\TestNGDemo\target\classes;D:\maven\repo\org\testng\testng\6.8.21\testng-6.8.21.jar;D:\maven\repo\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;D:\maven\repo\com\beust\jcommander\1.27\jcommander-1.27.jar;D:\maven\repo\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;D:\maven\repo\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Java\jdk1.8.0_171\jre\bin;D:\fo--tool\git\Git\cmd;D:\fo--tool\node.js\nodejs\;D:\Python\venv\Scripts\python.exe;D:\maven\apache-maven-3.5.0\bin;D:\Appium\android-sdk;D:\Appium\android-sdk\tools;D:\Appium\android-sdk\platform-tools;D:\Appium\AppiumForWindows_1_4_16_1\Appium\node_modules\.bin\;D:\Appium\android-sdk\build-tools;C:\Windows/system32;C:\Windows;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\Scripts\chromedriver.exe;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe;D:\小乌龟\bin;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\fokui\AppData\Local\Programs\Python\Python36-32\;D:\fo--tool\VsCode\Microsoft VS Code\bin;C:\Users\fokui\AppData\Roaming\npm;C:\Users\fokui\AppData\Local\BypassRuntm;."/>
+    <property name="surefire.test.class.path" value="D:\Java--file\TestNGDemo\target\test-classes;D:\Java--file\TestNGDemo\target\classes;D:\maven\repo\org\testng\testng\6.9.5\testng-6.9.5.jar;D:\maven\repo\junit\junit\4.10\junit-4.10.jar;D:\maven\repo\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;D:\maven\repo\com\beust\jcommander\1.48\jcommander-1.48.jar;D:\maven\repo\org\apache\ant\ant\1.7.0\ant-1.7.0.jar;D:\maven\repo\org\apache\ant\ant-launcher\1.7.0\ant-launcher-1.7.0.jar;D:\maven\repo\com\google\inject\guice\4.0\guice-4.0-no_aop.jar;D:\maven\repo\javax\inject\javax.inject\1\javax.inject-1.jar;D:\maven\repo\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\maven\repo\com\google\guava\guava\16.0.1\guava-16.0.1.jar;D:\maven\repo\org\yaml\snakeyaml\1.15\snakeyaml-1.15.jar;D:\maven\repo\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;D:\maven\repo\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;D:\maven\repo\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;"/>
     <property name="maven.conf" value="D:\maven\apache-maven-3.5.0\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
@@ -68,5 +68,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testcase" classname="test.testng.demo.script.TestHelloWorldTest" time="0.013"/>
+  <testcase name="testcase" classname="test.testng.demo.script.TestHelloWorldTest" time="0.016"/>
+  <testcase name="parameterTest" classname="test.testng.demo.script.ParameterTest" time="0.002"/>
 </testsuite>
