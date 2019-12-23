@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/Java--file/TestNGDemo/src/main/resources"><classes/></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/project/TestNGDemo/src/test/java/test/testng/demo/script/TestDemo.java">
+        <groups>
+            <classes>
+                <class name="test.testng.demo.script.TestDemo">
+                    <methods>
+
+                        <define name="group1">
+                            <include name="Test1"/>
+                        </define>
+                        <include name="Test2"/>
+                    </methods>
+                </class>
+            </classes>
+        </groups>
+    </test>
+</suite>

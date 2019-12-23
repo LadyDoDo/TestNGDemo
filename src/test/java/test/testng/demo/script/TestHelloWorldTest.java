@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import test.testng.demo.TestHelloWorld;
 
 /**
- * @author fokui
+ * @author miaomiao
  * @date 2019/5/29 11:16
  */
 public class TestHelloWorldTest {
