@@ -2,9 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d27dd14-cf46-4443-a922-9ed4237fecb6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/testng/demo/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/testng/demo/TestPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/testng/utils/OkHttpUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/TestHelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/TestHelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/testng/demo/ProviderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/ProviderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/ParameterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/ParameterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/ProviderClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/ProviderClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testng/demo/script/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/My test report/parameterTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/My test report/parameterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/My test report/testcase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/My test report/testcase.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-test.testng.demo.script.ParameterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-test.testng.demo.script.TestHelloWorldTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/parameterTest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/testcase.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/My test report/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/testng/demo/ProviderClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/testng/demo/ProviderClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/testng/demo/script/ParameterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/testng/demo/script/ParameterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/testng/demo/script/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/testng/demo/script/TestDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +84,11 @@
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1VEto1T4l90EFAVmCXmNfS2cNHL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,11 +98,12 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auto-test" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -81,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/project/TestNGDemo/testng.xml">
+  <component name="RunManager" selected="TestNG.ProviderClassTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -130,7 +181,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderTest.dataMoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterTest.PlusTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDemo" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +190,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.testng.demo.script" />
-      <option name="MAIN_CLASS_NAME" value="test.testng.demo.script.DataProviderTest" />
-      <option name="METHOD_NAME" value="dataMoreTest" />
+      <option name="MAIN_CLASS_NAME" value="test.testng.demo.script.ParameterTest" />
+      <option name="METHOD_NAME" value="PlusTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -149,7 +200,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProviderClassTest.dataTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProviderClassTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDemo" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +210,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.testng.demo.script" />
       <option name="MAIN_CLASS_NAME" value="test.testng.demo.script.ProviderClassTest" />
-      <option name="METHOD_NAME" value="dataTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -168,7 +218,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDemo" />
       <extension name="coverage">
         <pattern>
@@ -178,8 +228,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.testng.demo.script" />
       <option name="MAIN_CLASS_NAME" value="test.testng.demo.script.TestDemo" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -206,19 +255,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DataProviderTest" />
-      <item itemvalue="TestNG.DataProviderTest.dataMoreTest" />
-      <item itemvalue="TestNG.ProviderClassTest.dataTest" />
-      <item itemvalue="TestNG.TestDemo.Test" />
       <item itemvalue="TestNG.D:/project/TestNGDemo/testng.xml" />
+      <item itemvalue="TestNG.TestDemo" />
+      <item itemvalue="TestNG.ParameterTest.PlusTest" />
+      <item itemvalue="TestNG.ProviderClassTest" />
+      <item itemvalue="TestNG.DataProviderTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/project/TestNGDemo/testng.xml" />
-        <item itemvalue="TestNG.TestDemo.Test" />
-        <item itemvalue="TestNG.ProviderClassTest.dataTest" />
-        <item itemvalue="TestNG.DataProviderTest.dataMoreTest" />
+        <item itemvalue="TestNG.ProviderClassTest" />
         <item itemvalue="TestNG.DataProviderTest" />
+        <item itemvalue="TestNG.ParameterTest.PlusTest" />
+        <item itemvalue="TestNG.TestDemo" />
+        <item itemvalue="TestNG.D:/project/TestNGDemo/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +296,7 @@
       <workItem from="1576830255057" duration="447000" />
       <workItem from="1577089005593" duration="709000" />
       <workItem from="1577094061264" duration="1062000" />
-      <workItem from="1577095148416" duration="2739000" />
+      <workItem from="1577095148416" duration="14776000" />
     </task>
     <servers />
   </component>

@@ -1,37 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="My test report." duration-ms="102" started-at="2019-09-04T07:45:02Z" finished-at="2019-09-04T07:45:02Z">
+  <suite name="Test Suite" duration-ms="2" started-at="2019-12-24T02:32:47Z" finished-at="2019-12-24T02:32:47Z">
     <groups>
     </groups>
-    <test name="testcase" duration-ms="32" started-at="2019-09-04T07:45:02Z" finished-at="2019-09-04T07:45:02Z">
-      <class name="test.testng.demo.script.TestHelloWorldTest">
-        <test-method status="PASS" signature="testcase()[pri:0, instance:test.testng.demo.script.TestHelloWorldTest@10c2064a]" name="testcase" duration-ms="17" started-at="2019-09-04T15:45:02Z" finished-at="2019-09-04T15:45:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase -->
-      </class> <!-- test.testng.demo.script.TestHelloWorldTest -->
-    </test> <!-- testcase -->
-    <test name="parameterTest" duration-ms="3" started-at="2019-09-04T07:45:02Z" finished-at="2019-09-04T07:45:02Z">
-      <class name="test.testng.demo.script.ParameterTest">
-        <test-method status="PASS" signature="parameterTest(java.lang.String, int)[pri:0, instance:test.testng.demo.script.ParameterTest@22590e3e]" name="parameterTest" duration-ms="2" started-at="2019-09-04T15:45:02Z" finished-at="2019-09-04T15:45:02Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Tom]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[12]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- parameterTest -->
-      </class> <!-- test.testng.demo.script.ParameterTest -->
-    </test> <!-- parameterTest -->
-  </suite> <!-- My test report. -->
+    <test name="miaomiaoTest" duration-ms="2" started-at="2019-12-24T02:32:47Z" finished-at="2019-12-24T02:32:47Z">
+    </test> <!-- miaomiaoTest -->
+  </suite> <!-- Test Suite -->
 </testng-results>

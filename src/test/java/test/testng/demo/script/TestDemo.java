@@ -24,17 +24,17 @@ public class TestDemo {
         System.out.println("beforeTest.");
     }
 
-    @BeforeGroups
+    @BeforeGroups("one")
     public void beforeGroups() {
         System.out.println("beforeGroups.");
     }
 
-    @Test(description = "first method.", groups = "group1")
+    @Test(description = "first method.", groups = "one")
     public void method1() {
         System.out.println("method1.");
     }
 
-    @Test
+    @Test()
     public void method2() {
         System.out.println("method2.");
     }

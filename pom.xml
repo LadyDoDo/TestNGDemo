@@ -14,6 +14,21 @@
             <artifactId>testng</artifactId>
             <version>6.9.5</version>
         </dependency>
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>3.14.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.60</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.25</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -37,7 +52,7 @@
                     <forkMode>never</forkMode>
                     <argLine>-Dfile.encoding=UTF-8</argLine>
                     <suiteXmlFiles>
-                        <suiteXmlFile>D:\Java--file\TestNGDemo\src\main\resources\testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

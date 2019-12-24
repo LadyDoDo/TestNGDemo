@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true"
-          name="D:/project/TestNGDemo/src/test/java/test/testng/demo/script/TestDemo.java">
-        <groups>
-            <classes>
-                <class name="test.testng.demo.script.TestDemo">
-                    <methods>
+    <test name="test parameters">
+        <parameter name="name" value="Tom"/>
+        <parameter name="age" value="12"/>
+        <parameter name="a" value="1"/>
+        <parameter name="b" value="5"/>
 
-                        <define name="group1">
-                            <include name="Test1"/>
-                        </define>
-                        <include name="Test2"/>
-                    </methods>
-                </class>
-            </classes>
+        <groups>
+            <define name="one">
+                <include name="method1"/>
+            </define>
         </groups>
+
+
+
+        <classes>
+            <class name="test.testng.demo.script.ParameterTest"/>
+        </classes>
     </test>
 </suite>

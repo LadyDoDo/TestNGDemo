@@ -9,7 +9,7 @@ import test.testng.demo.ProviderClass;
  */
 public class ProviderClassTest {
 
-    @Test(dataProviderClass = ProviderClass.class,dataProvider = "test")
+    @Test(dataProviderClass = ProviderClass.class, dataProvider = "test")
     public void dataTest(String name, int age) {
         System.out.println("name: " + name + " ;age: " + age);
     }
